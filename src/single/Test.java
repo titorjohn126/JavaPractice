@@ -23,7 +23,6 @@ public class Test {
         Test1 test1 = new Test1();
         test1.abstractMethod();
         test1.DefaultMethod();
-        test1.Method_with_PrivateMethod();
         InterfaceMethod.staticMethod();
 
     }
